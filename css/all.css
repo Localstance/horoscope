@@ -1,0 +1,9 @@
+.formWrapper {
+	margin: 100px auto;
+	border: 1px dotted grey;
+	width: 600px;
+	padding: 25px;
+}
+div.radio {
+	display: inline-block;
+}
